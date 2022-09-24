@@ -1,3 +1,3 @@
 # Taichi Poetry Template
 
-a taichi quick start temple
+a taichi quick start template
