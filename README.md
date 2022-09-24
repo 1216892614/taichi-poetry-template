@@ -1,2 +1,3 @@
-# taichi-poetry-template
-a quick taichi start temple
+# Taichi Poetry Template
+
+a taichi quick start temple
